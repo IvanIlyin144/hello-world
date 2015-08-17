@@ -1,2 +1,4 @@
 # hello-world
-First repository
+First repository!
+Expanding the ReadMe.
+Learning to commit.
